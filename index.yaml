@@ -1,0 +1,36 @@
+apiVersion: v1
+entries:
+  first:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-31T11:21:42.313845404Z"
+    description: A Helm chart for Kubernetes
+    digest: d01c2e4185f9618c396b73168403ded32aec0717e09090b40ea477adda77df8d
+    name: first
+    type: application
+    urls:
+    - https://github.com/masayag/crgames/releases/download/first-0.1.0/first-0.1.0.tgz
+    version: 0.1.0
+  second:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-31T11:21:42.402841081Z"
+    description: A Helm chart for Kubernetes
+    digest: 200e46bc9dc7db8acfaeb91f636bb94ca471185541eea02a2e971107fdba70fe
+    name: second
+    type: application
+    urls:
+    - https://github.com/masayag/crgames/releases/download/second-0.1.0/second-0.1.0.tgz
+    version: 0.1.0
+  third:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-31T11:21:42.506622578Z"
+    description: A Helm chart for Kubernetes
+    digest: 15fbb47b395c955ee1a27dae142eca2fa08b88ee621b24b01226a032e015a4e4
+    name: third
+    type: application
+    urls:
+    - https://github.com/masayag/crgames/releases/download/third-0.1.0/third-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-03-31T11:21:42.506629631Z"
