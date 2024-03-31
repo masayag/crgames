@@ -11,6 +11,17 @@ entries:
     urls:
     - https://github.com/masayag/crgames/releases/download/first-0.1.0/first-0.1.0.tgz
     version: 0.1.0
+  fourth:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-31T11:24:02.519125839Z"
+    description: A Helm chart for Kubernetes
+    digest: 7fefca9c8d7db187e4b547912f9debc25116e7c43625547a48c8c6f236c3412b
+    name: fourth
+    type: application
+    urls:
+    - https://github.com/masayag/crgames/releases/download/fourth-0.1.0/fourth-0.1.0.tgz
+    version: 0.1.0
   second:
   - apiVersion: v2
     appVersion: 1.16.0
@@ -33,4 +44,4 @@ entries:
     urls:
     - https://github.com/masayag/crgames/releases/download/third-0.1.0/third-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-31T11:21:42.506629631Z"
+generated: "2024-03-31T11:24:02.519131739Z"
